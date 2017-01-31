@@ -13,7 +13,7 @@ android {
 
 allprojects {
     repositories {
-        jcenter()
+        mavenCentral()
     }
 }
 
